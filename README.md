@@ -1,4 +1,4 @@
-# Data Science & Analytics Projects
+# Data Science Internship Projects
 
 This repository contains three projects demonstrating various data analysis, machine learning, and visualization techniques.
 
